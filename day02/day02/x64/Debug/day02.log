@@ -1,4 +1,3 @@
-﻿  05.c
-  08.c
-  正在生成代码...
+﻿  08.c
+D:\code\2025\C_coding_practice\day02\day02\08.c(16,8): warning C4552: ”-“: 未使用表达式结果
   day02.vcxproj -> D:\code\2025\C_coding_practice\day02\x64\Debug\day02.exe

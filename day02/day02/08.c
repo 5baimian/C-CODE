@@ -10,9 +10,10 @@
 int main()
 {
 	int N = 0,sum=1;
-	printf("请输入N：");
+	printf("请输入到第N天只剩一个桃子时N的值：");
 	scanf_s("%d", &N);
-	for (N; N > 0; N--)
+	
+	for (N-1; N > 1; N--)
 	{
 		sum= (sum + 1) * 2;
 	}
