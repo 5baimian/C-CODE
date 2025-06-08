@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|solutionrelative:day02\\day02_11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|solutionrelative:day02\\day02_12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|solutionrelative:day02\\day02_13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B63D6518-B7C8-4931-85AF-2D3E4B18CE20}|day02\\day02.vcxproj|solutionrelative:day02\\day02_10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "day02_13.c",
-              "DocumentMoniker": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_13.c",
-              "RelativeDocumentMoniker": "day02\\day02_13.c",
-              "ToolTip": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_13.c",
-              "RelativeToolTip": "day02\\day02_13.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-08T06:51:38.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "day02_12.c",
-              "DocumentMoniker": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_12.c",
-              "RelativeDocumentMoniker": "day02\\day02_12.c",
-              "ToolTip": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_12.c",
-              "RelativeToolTip": "day02\\day02_12.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-08T06:51:09.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "day02_11.c",
-              "DocumentMoniker": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_11.c",
-              "RelativeDocumentMoniker": "day02\\day02_11.c",
-              "ToolTip": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_11.c",
-              "RelativeToolTip": "day02\\day02_11.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-08T06:50:41.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "day02_10.c",
-              "DocumentMoniker": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_10.c",
-              "RelativeDocumentMoniker": "day02\\day02_10.c",
-              "ToolTip": "D:\\CODE\\2025\\STD_C\\C-CODE\\day02\\day02\\day02_10.c",
-              "RelativeToolTip": "day02\\day02_10.c",
-              "ViewState": "AgIAABYAAAAAAAAAAAAjwCUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-08T06:50:05.794Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
