@@ -1,7 +1,2 @@
-﻿  day02_01.c
-  day02_02.c
-  day02_03.c
-  day02_04.c
-  正在生成代码...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-D:\CODE\2025\STD_C\C-CODE\day02\x64\Debug\day02.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  day02_11.c
+  day02.vcxproj -> D:\CODE\2025\STD_C\C-CODE\day02\x64\Debug\day02.exe
