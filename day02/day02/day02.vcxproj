@@ -29,26 +29,26 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -139,21 +139,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\day1\day1\test02.c" />
-    <ClCompile Include="01.c" />
-    <ClCompile Include="02.c" />
-    <ClCompile Include="03.c" />
-    <ClCompile Include="04.c" />
-    <ClCompile Include="05.c" />
-    <ClCompile Include="06.c" />
-    <ClCompile Include="07.c" />
-    <ClCompile Include="08.c" />
-    <ClCompile Include="09.c" />
-    <ClCompile Include="10.c" />
-    <ClCompile Include="11.c" />
-    <ClCompile Include="12.c" />
-    <ClCompile Include="13.c" />
-    <ClCompile Include="14.c" />
+    <ClCompile Include="day02_01.c" />
+    <ClCompile Include="day02_02.c" />
+    <ClCompile Include="day02_03.c" />
+    <ClCompile Include="day02_04.c" />
+    <ClCompile Include="day02_05.c" />
+    <ClCompile Include="day02_06.c" />
+    <ClCompile Include="day02_07.c" />
+    <ClCompile Include="day02_08.c" />
+    <ClCompile Include="day02_09.c" />
+    <ClCompile Include="day02_10.c" />
+    <ClCompile Include="day02_11.c" />
+    <ClCompile Include="day02_12.c" />
+    <ClCompile Include="day02_13.c" />
+    <ClCompile Include="day02_14.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

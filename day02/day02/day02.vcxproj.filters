@@ -15,50 +15,52 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\day1\day1\test02.c">
+    <ClCompile Include="day02_01.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="01.c">
+    <ClCompile Include="day02_02.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="02.c">
+    <ClCompile Include="day02_03.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="03.c">
+    <ClCompile Include="day02_04.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="04.c">
+    <ClCompile Include="day02_05.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="05.c">
+    <ClCompile Include="day02_06.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="06.c">
+    <ClCompile Include="day02_07.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="07.c">
+    <ClCompile Include="day02_08.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="08.c">
+    <ClCompile Include="day02_09.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="09.c">
+    <ClCompile Include="day02_10.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="10.c">
+    <ClCompile Include="day02_11.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="11.c">
+    <ClCompile Include="day02_12.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="12.c">
+    <ClCompile Include="day02_13.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="13.c">
+    <ClCompile Include="day02_14.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="14.c">
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md">
       <Filter>源文件</Filter>
-    </ClCompile>
+    </None>
   </ItemGroup>
 </Project>
