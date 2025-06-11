@@ -139,6 +139,9 @@
     <ClCompile Include="day03_14.c" />
     <ClCompile Include="day03_15.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="std_record.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
