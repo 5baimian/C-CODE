@@ -5,6 +5,8 @@
 
 /*
 * 满足三角形的三边关系：a + b > c, a + c > b, b + c > a
+* 
+* 海伦公式
 */
 
 //#include <stdio.h>

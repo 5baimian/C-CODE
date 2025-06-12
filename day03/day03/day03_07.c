@@ -16,7 +16,7 @@
 //	str1[strcspn(str1, "\n")] = '\0';
 //	printf("请输入第二个字符串：\n");
 //	fgets(str2, sizeof(str2), stdin);
-//	str1[strcspn(str2, "\n")] = '\0';
+//	str2[strcspn(str2, "\n")] = '\0';
 //
 //	search_vowel(str1, str2, str3);
 //	printf("元音字母为：\n%s\n", str3);
@@ -37,7 +37,7 @@
 //	}
 //	for (int j=0; j < strlen(str2); j++)
 //	{
-//		if (str2[j] == 'a' || str2[j] == 'e' || str2[j] == 'i' || str2[j] == 'o' || str[j] == 'u')
+//		if (str2[j] == 'a' || str2[j] == 'e' || str2[j] == 'i' || str2[j] == 'o' || str2[j] == 'u')
 //		{
 //			str3[k] = str2[j];
 //			k++;
